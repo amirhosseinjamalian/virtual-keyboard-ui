@@ -4,13 +4,11 @@ A simple and stylish virtual keyboard interface built with HTML, CSS, and Vanill
 This mini-project highlights DOM interaction by detecting real keyboard events and visually reflecting them on screen.
 
 🚀 Live Demo
+🔗 **Demo Online:** 
+[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/random-color-generator/)
 
-🔗 Live Preview: Add your GitHub Pages link here
-
-📸 Screenshot
-
-Add your project screenshot here
-(Example: ![App Screenshot](screenshot.png))
+## 📸 Screenshot
+![Screenshot](https://raw.githubusercontent.com/amirhosseinjamalian/virtual-keyboard-ui/refs/heads/main/14948481-a995-45a2-b701-dab83b94303b.png)
 
 📌 Features
 
@@ -40,10 +38,10 @@ JavaScript (ES6)
 
 🔧 How to Run the Project
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/amirhosseinjamalian/virtual-keyboard-ui.git
 
 # Navigate into the folder
-cd YOUR_REPO_NAME
+cd virtual-keyboard-ui
 
 # Open index.html in your browser
 
