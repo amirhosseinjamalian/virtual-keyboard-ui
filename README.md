@@ -20,6 +20,7 @@ Add your project screenshot here
 ✔️ Built using pure JavaScript (no libraries or frameworks)
 ✔️ Clean, readable, and beginner-friendly code
 
+```bash
 📂 Project Structure
 📁 virtual-keyboard
 │
@@ -27,6 +28,7 @@ Add your project screenshot here
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 🛠️ Technologies Used
 
