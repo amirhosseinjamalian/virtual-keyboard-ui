@@ -5,7 +5,7 @@ This mini-project highlights DOM interaction by detecting real keyboard events a
 
 🚀 Live Demo
 🔗 **Demo Online:** 
-[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/random-color-generator/)
+[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/virtual-keyboard-ui/)
 
 ## 📸 Screenshot
 ![Screenshot](https://raw.githubusercontent.com/amirhosseinjamalian/virtual-keyboard-ui/refs/heads/main/14948481-a995-45a2-b701-dab83b94303b.png)
